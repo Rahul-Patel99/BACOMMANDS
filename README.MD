@@ -48,6 +48,6 @@
 |git merge --abort|git merge --abort|Aborts a merge|
 |git revert|git revert|Creates a new commit that does the opposite of the previous commit|
 |git reset --hard <id>|git reset --hard 34rfh4|Returns state to selected commit|
-|
+
 
 
